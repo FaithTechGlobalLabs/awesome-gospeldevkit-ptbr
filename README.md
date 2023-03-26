@@ -1,10 +1,10 @@
-# Awesome List se recursos para a comunidade de desenvolvedores cristãos
+# Awesome List de recursos para desenvolvedores cristãos
 ### Conteúdo em português (pt-br)
 Desenvolvido pela comunidade **FaithTech São Paulo**
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/sindresorhus/awesome](https://faithtech.com/sao-paulo/))   
 
-### Contribua também! só sugerir um PR
+### Contribua também! Só submeter um PR.
 
 ## Categorias de Conteúdos
 <details>
